@@ -20,3 +20,6 @@ The List below is all of the conferences and their associated acronyms that are 
 
 ## Rebuttals
 * The approach on how to write rebuttals for [COLING 2018](http://coling2018.org/pc-blog/) by [Emily M. Bender](http://faculty.washington.edu/ebender/): [**LINK**](http://coling2018.org/author-response/)
+
+## Publishing
+* Slides by [Sam Bowman](http://www.nyu.edu/projects/bowman/) from NYU on how to find related work, setup experiments and analysis the results for an NLP paper but a lot of the slides are applicable I think to ML papers in general as well. Slides [**HERE**](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit) 
