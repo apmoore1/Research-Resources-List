@@ -23,3 +23,4 @@ The List below is all of the conferences and their associated acronyms that are 
 
 ## Publishing
 * Slides by [Sam Bowman](http://www.nyu.edu/projects/bowman/) from NYU on how to find related work, setup experiments and analysis the results for an NLP paper but a lot of the slides are applicable I think to ML papers in general as well. Slides [**HERE**](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit) 
+* Great Slides by [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/)et al. from [Deep Learning Indaba 2018](http://www.deeplearningindaba.com/2018.html) on how to write/structure a paper.
