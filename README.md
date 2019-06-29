@@ -1,5 +1,5 @@
 # Research-Resources-List
-A list of blog posts and videos on how to present, review, and write rebuttals. This list is heavily biased towards blog post and videos that I have found within the Natural Language Processing (NLP) community and is not an extensive list.
+A list of blog posts and videos on how to present, review, write rebuttals, and collaboration. This list is heavily biased towards blog post and videos that I have found within the Natural Language Processing (NLP) community and is not an extensive list.
 
 The List below is all of the conferences and their associated acronyms that are used throughout the list:
 * [ACL](https://aclanthology.info/venues/acl) - Association for Computational Linguistic. In the contexts of this list it refers to the conference series rather than the society.
@@ -24,3 +24,6 @@ The List below is all of the conferences and their associated acronyms that are 
 ## Publishing
 * Slides by [Sam Bowman](http://www.nyu.edu/projects/bowman/) from NYU on how to find related work, setup experiments and analysis the results for an NLP paper but a lot of the slides are applicable I think to ML papers in general as well. Slides [**HERE**](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit) 
 * Great Slides by [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/) et al. from [Deep Learning Indaba 2018](http://www.deeplearningindaba.com/2018.html) on how to write/structure a paper. Slides [**HERE**](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/research-paper-writing.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+
+## Collaboration
+* Christopher Olah's thoughts on [collaboration and credit when writing joint papers](https://colah.github.io/posts/2019-05-Collaboration/). A really great read for anybody wanting to or are currently working on projects with multiple authors, also points out the importance of "taking care of yourself" during these collaborative projects.
