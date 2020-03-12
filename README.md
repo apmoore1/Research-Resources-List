@@ -11,6 +11,7 @@ The List below is all of the conferences and their associated acronyms that are 
 * Advice from 7 excellent reviewers that has come from the [ACL 2017 PC chair blog post series](https://acl2017.wordpress.com/): [**LINK**](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
 * [Omer Levy](https://levyomer.wordpress.com/bio/) adive from the [NAACL chairs blog post series 2018](https://naacl2018.wordpress.com/): [**LINK**](https://naacl2018.wordpress.com/2018/01/05/reviewing-advice-by-omer-levy/)
 * [Gemma Boleda](http://gboleda.utcompling.com/) advice from the [NAACL chairs blog post series 2018](https://naacl2018.wordpress.com/): [**LINK**](https://naacl2018.wordpress.com/2018/01/04/reviewing-advice-by-gemma-boleda/) 
+* [CVPR 2020 tutorial How to write a good review?](https://sites.google.com/view/making-reviews-great-again/home) (will happen on 14th or 15th or 19th of June 2020)
 
 ## Presenting
 * Talk by [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/) at the [Good Citzen of CVPR event](https://www.cc.gatech.edu/~parikh/citizenofcvpr/): [**LINK**](https://www.youtube.com/watch?v=4LEZED1YXm0)
