@@ -11,7 +11,8 @@ The List below is all of the conferences and their associated acronyms that are 
 * Advice from 7 excellent reviewers that has come from the [ACL 2017 PC chair blog post series](https://acl2017.wordpress.com/): [**LINK**](https://acl2017.wordpress.com/2017/02/23/last-minute-reviewing-advice/)
 * [Omer Levy](https://levyomer.wordpress.com/bio/) adive from the [NAACL chairs blog post series 2018](https://naacl2018.wordpress.com/): [**LINK**](https://naacl2018.wordpress.com/2018/01/05/reviewing-advice-by-omer-levy/)
 * [Gemma Boleda](http://gboleda.utcompling.com/) advice from the [NAACL chairs blog post series 2018](https://naacl2018.wordpress.com/): [**LINK**](https://naacl2018.wordpress.com/2018/01/04/reviewing-advice-by-gemma-boleda/) 
-* [CVPR 2020 tutorial How to write a good review?](https://sites.google.com/view/making-reviews-great-again/home) (will happen on 14th or 15th or 19th of June 2020)
+* [CVPR 2020 tutorial How to write a good review?](https://sites.google.com/view/making-reviews-great-again/home). The whole event was recorded and can be found at the link to the tutorial.
+* [ACL 2020 tutorial Reviewing Natural Language Processing Research](https://acl2020.org/program/tutorials/#t3-reviewing-natural-language-processing-research-introductory-). Will be on the 5th of July 2020 at ACL 2020 which is virtual.
 
 ## Presenting
 * Talk by [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/) at the [Good Citzen of CVPR event](https://www.cc.gatech.edu/~parikh/citizenofcvpr/): [**LINK**](https://www.youtube.com/watch?v=4LEZED1YXm0)
@@ -21,6 +22,7 @@ The List below is all of the conferences and their associated acronyms that are 
 
 ## Rebuttals
 * The approach on how to write rebuttals for [COLING 2018](http://coling2018.org/pc-blog/) by [Emily M. Bender](http://faculty.washington.edu/ebender/): [**LINK**](http://coling2018.org/author-response/)
+* The [CVPR 2020 tutorial How to write a good review?](https://sites.google.com/view/making-reviews-great-again/home) from the reviewing section above also includes a session on how to write a good rebuttal.
 
 ## Publishing
 * Slides by [Sam Bowman](http://www.nyu.edu/projects/bowman/) from NYU on how to find related work, setup experiments and analysis the results for an NLP paper but a lot of the slides are applicable I think to ML papers in general as well. Slides [**HERE**](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit) 
