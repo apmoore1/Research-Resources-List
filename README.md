@@ -31,3 +31,6 @@ The List below is all of the conferences and their associated acronyms that are 
 
 ## Collaboration
 * Christopher Olah's thoughts on [collaboration and credit when writing joint papers](https://colah.github.io/posts/2019-05-Collaboration/). A really great read for anybody wanting to or are currently working on projects with multiple authors, also points out the importance of "taking care of yourself" during these collaborative projects.
+
+## Literature Reviews
+* [Tips and tricks for writing a litertaure review covering searching for papers and reference managing by Pedro Rodriguez.](https://www.pedro.ai/blog/2020/08/25/literature-review-tricks/)
