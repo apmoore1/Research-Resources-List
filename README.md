@@ -23,6 +23,7 @@ The List below is all of the conferences and their associated acronyms that are 
 ## Rebuttals
 * The approach on how to write rebuttals for [COLING 2018](http://coling2018.org/pc-blog/) by [Emily M. Bender](http://faculty.washington.edu/ebender/): [**LINK**](http://coling2018.org/author-response/)
 * The [CVPR 2020 tutorial How to write a good review?](https://sites.google.com/view/making-reviews-great-again/home) from the reviewing section above also includes a session on how to write a good rebuttal.
+* [How we write rebuttals](https://medium.com/@deviparikh/how-we-write-rebuttals-dc84742fece1) by [Devi Parikh](https://www.cc.gatech.edu/~parikh/), [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), and [Stefan Lee](http://web.engr.oregonstate.edu/~leestef/) (blog post written May 2020). They highlight that rebuttals are for two audiences the reviewers and the area chairs therefore when writing the rebuttals we need to take into account these two difference audiences. Their short hand recommended overview is "would a neutral third-party be able to tell if the reviewer concerns were addressed purely based on your rebuttal (without reading the paper or the reviews again)?"
 
 ## Publishing
 * Slides by [Sam Bowman](http://www.nyu.edu/projects/bowman/) from NYU on how to find related work, setup experiments and analysis the results for an NLP paper but a lot of the slides are applicable I think to ML papers in general as well. Slides [**HERE**](https://drive.google.com/file/d/1kUarnxZNa-ojz0KvZFmHeAEFwTkEH7lg/edit) 
