@@ -13,6 +13,7 @@ The List below is all of the conferences and their associated acronyms that are 
 * [Gemma Boleda](http://gboleda.utcompling.com/) advice from the [NAACL chairs blog post series 2018](https://naacl2018.wordpress.com/): [**LINK**](https://naacl2018.wordpress.com/2018/01/04/reviewing-advice-by-gemma-boleda/) 
 * [CVPR 2020 tutorial How to write a good review?](https://sites.google.com/view/making-reviews-great-again/home). The whole event was recorded and can be found at the link to the tutorial.
 * [ACL 2020 tutorial Reviewing Natural Language Processing Research](https://acl2020.org/program/tutorials/#t3-reviewing-natural-language-processing-research-introductory-). Will be on the 5th of July 2020 at ACL 2020 which is virtual.
+* [NAACL 2021 and EMNLP 2020 reviewing advice](https://2021.naacl.org/reviewer/advice/), they have many pointers to additional reviewer resources (some of which are listed here), They also have their own great advice including a section of bullet points on "invalid bases for rejecting a paper".
 
 ## Presenting
 * Talk by [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/) at the [Good Citzen of CVPR event](https://www.cc.gatech.edu/~parikh/citizenofcvpr/): [**LINK**](https://www.youtube.com/watch?v=4LEZED1YXm0)
